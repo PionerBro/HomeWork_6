@@ -1,5 +1,10 @@
 #pragma once
 
+/*
+	Queue container
+	Contains standard queue methods
+*/
+
 template <typename T>
 class Queue
 {
